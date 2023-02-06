@@ -1,0 +1,43 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css);
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+  background-image: url(http://www.allygrow.com/index.htmlhttp://www.allygrow.com/index.html);
+  color:white;
+
+}
+.outline
+{
+ width:400px;
+ height:75%;
+
+}
+.main_div
+{
+
+  text-align: center;
+}
+
+.img1
+{
+  width: 500px;
+}
+
+body
+{
+background-image: url(https://scionanalytics.com/wp-content/uploads/2021/08/Artificial-intelligence-in-finance-1.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center; 
+}
+
+.butcls
+{
+  text-align: center;
+}
