@@ -85,9 +85,9 @@ const Login = () => {
       <a href="#!">Forgot password?</a>
     </div>
   </div>
-  <div className="d-grid">
+  <div className="mx-auto mid mt-3">
           <button type="submit" className="btn btn-primary" onSubmit={submitData}>
-            Submit
+            Login
           </button>
         </div>
   <div className="text-center my-2">
